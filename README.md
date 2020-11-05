@@ -1,0 +1,1 @@
+This project uses lazy sequences to develop a list of 30 base ten birthdays based off an inputed birthday from a user. It also uses clojure tests to ensure all the dates are being calculated correctly.
